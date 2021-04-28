@@ -13,7 +13,7 @@ Crkbd stands for Corne Keyboard.
 - corne-chocolate([JP](corne-chocolate/doc/buildguide_jp.md)/[EN](corne-chocolate/doc/buildguide_en.md)):
     Hotswappable Corne for Chocolate switches using Kailh PCB hot-swap sockets.
 - corne-light([JP](corne-light/doc/buildguide_jp.md)):
-    Light-weight Corne (Easy build with a simple PCB).
+    Light-weight Corne supporting Choc v1 and Choc v2 switches (Easy build with a simple PCB).
 
 ## Photos
 
